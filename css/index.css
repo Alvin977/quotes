@@ -1,0 +1,24 @@
+.qButton{
+    padding: 25px 100px;
+    background-color: #583301;
+    color: white;
+    transition: all 0.2s;
+}
+.qButton:hover{
+background-color: #BFB39D;
+color: white;
+}
+.imgCustom{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%; 
+
+}
+.bg-img{
+   
+    background-image: url(../imgs/wall-blank-paper-frame-with-acorn-decoration.jpg);
+    background-size: cover;
+    background-position: center ;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
